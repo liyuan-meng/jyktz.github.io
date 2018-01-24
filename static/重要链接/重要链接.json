@@ -1,0 +1,106 @@
+{
+  "杂志链接": [
+    {
+      "name": "ACS",
+      "links": [{
+        "name": "Chemical Reviews",
+        "href": "http://pubs.acs.org/journal/chreay"
+      },{
+        "name": "Accounts of Chemical Research",
+        "href": "http://pubs.acs.org/journal/achre4"
+      },{
+        "name": "Journal of the American Chemical Society",
+        "href": "http://pubs.acs.org/journal/jacsat"
+      },{
+        "name": "ACS Nano",
+        "href": "http://pubs.acs.org/journal/ancac3"
+      },{
+        "name": "Nano Letters",
+        "href": "http://pubs.acs.org/journal/nalefd"
+      },{
+        "name": "Analytical Chemistry",
+        "href": "http://pubs.acs.org/journal/ancham"
+      }]
+    },{
+      "name": "RSC",
+      "links": [{
+        "name": "Chemical Society Reviews",
+        "href": "http://pubs.rsc.org/en/journals/journalissues/cs#!recentarticles&adv"
+      },{
+        "name": "Chemical Science",
+        "href": "http://pubs.rsc.org/en/journals/journalissues/sc#!recentarticles&adv"
+      },{
+        "name": "Chemical Communications",
+        "href": "http://pubs.rsc.org/en/journals/journalissues/cc#!recentarticles&adv"
+      }]
+    },{
+      "name": "Wiley",
+      "links": [{
+        "name": "Angewandte Chemie International Edition",
+        "href": "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3773"
+      },{
+        "name": "Advanced Materials",
+        "href": "http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%291521-4095"
+      },{
+        "name": "Advanced Functional Materials",
+        "href": "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1616-3028"
+      },{
+        "name": "Small",
+        "href": "http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1613-6829"
+      }]
+    }
+  ],
+  "课题组链接": [
+    {
+      "name": "谭蔚泓 院士",
+      "link": "https://tan.chem.ufl.edu/"
+    },{
+      "name": "王柯敏 教授",
+      "link": "http://cbsc.hnu.edu.cn/index.php/2014-04-06-11-56-38/2014-04-06-12-54-07/2014-10-22-09-18-21/376-2014-04-16-02-12-22"
+    },{
+      "name": "鞠熀先 教授",
+      "link": "http://sklac.nju.edu.cn/hxju/daoshi/advisor.htm"
+    },{
+      "name": "杨朝勇 教授",
+      "link": "http://www.yang-lab.com/"
+    },{
+      "name": "张新荣 教授",
+      "link": "http://xrzhanggroup.com/%e9%a6%96%e9%a1%b5/"
+    },{
+      "name": "蒋健晖 教授",
+      "link": "http://cc.hnu.cn/index.php?option=com_content&task=view&id=944&Itemid=226"
+    },{
+      "name": "王富安 教授",
+      "link": "http://wangfuan.whu.edu.cn/"
+    },{
+      "name": "袁荃 教授",
+      "link": "http://quanyuan.whu.edu.cn/"
+    },{
+      "name": "樊春海 教授",
+      "link": "http://www.sinap.ac.cn/physbio/zucheng/fch.htm"
+    },{
+      "name": "Chad A. Mirkin 教授",
+      "link": "http://mirkin-group.northwestern.edu/"
+    },{
+      "name": "应用表面与胶体化学教育部重点实验室",
+      "link": "http://klascc.snnu.edu.cn/"
+    },{
+      "name": "陕西省生命分析化重点实验室",
+      "link": "http://chemlab.snnu.edu.cn/zdsys/"
+    }
+  ],"学院链接": [
+    {
+      "name": "陕师大化学化工学院",
+      "link": "http://www.chem.snnu.edu.cn/"
+    },{
+      "name": "湖南大学化学化工学院",
+      "link": "http://cc.hnu.cn/"
+    },{
+      "name": "南京大学化学化工学院",
+      "link": "http://chem.nju.edu.cn/"
+    },{
+      "name": "武汉大学化学与分子科学学院",
+      "link": "http://www.chem.whu.edu.cn/"
+    }
+  ]
+}
